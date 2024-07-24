@@ -5,7 +5,6 @@
 }
 
 
-
 .head{
     width: 100%;
     height: fit-content;
@@ -38,8 +37,6 @@
 
 
 
-
-
 nav>ul{
     display: flex;
     margin-top: 15px;
@@ -52,8 +49,6 @@ nav>ul{
     margin-top: 58.5px;
     margin-left: 120px;
 }
-
-
 
 
 nav > ul > li{
@@ -83,8 +78,6 @@ nav > ul > li > a{
 }
 
 
-
-
 .head-banner{
     display: flex;
     justify-content: space-around;
@@ -92,12 +85,10 @@ nav > ul > li > a{
 }
 
 
-
 .head-des{
     margin-top: 90px;
     margin-left: -90px;
 }
-
 
 
 .head-des-h1{
@@ -110,7 +101,6 @@ nav > ul > li > a{
 .shape{
     font-family:'Times New Roman', Times, serif;
 }
-
 
 
 .head-des-p{
@@ -157,7 +147,6 @@ nav > ul > li > a{
     background-repeat: no-repeat;
     height: 585px;
 }
-
 
 
 .head-img-btn1{
@@ -240,8 +229,6 @@ nav > ul > li > a{
 
 
 
-
-
 .sec1-habit-li-img{
     width: 215px;
     height: 215px;
@@ -257,16 +244,6 @@ nav > ul > li > a{
 }
 
 
-
-/* .sec1-habit-des-ul{
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 35px;
-    gap: 75px;
-} */
-
-
-
 .sec1-habit-h1{
     margin-top: 22px;
     color: #FFFFFF;
@@ -279,25 +256,15 @@ nav > ul > li > a{
 
 
 
-/* .sec1-last-ul{
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 15px;
-} */
-
-
  .sec1-habit-p{
     color: #8d8d8d;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-/*  list-style: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- */
-
 
 
 
 /*secton 3 starts from here*/
+
 
 
 .sec3{
@@ -312,7 +279,6 @@ nav > ul > li > a{
 }
 
 
-
 .sec3-div2{
     display: flex;
     justify-content: space-between;
@@ -321,11 +287,6 @@ nav > ul > li > a{
     padding: 50px;
     border-radius: 25px;
 }
-
-
-
-
-
 
 
 
@@ -344,8 +305,6 @@ nav > ul > li > a{
 }
 
 
-
-
 .sec3-btn{
     margin-top: 58px;
     font-size: 32px;
@@ -355,9 +314,6 @@ nav > ul > li > a{
     padding: 13px 60px;
     border-radius: 50px;
 }
-
-
-
 
 
 .sec3-img{
@@ -371,18 +327,12 @@ nav > ul > li > a{
 
 
 
-.bmi-h1-div{
-    /* margin-left: 500px; */
-
-}
-
 
 .bmi-h1{
     margin-top: 160px;
     color: #ffffff;
     font-size: 64px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* text-align: center; */
     margin-left: 30%;
 
 }
@@ -393,7 +343,6 @@ nav > ul > li > a{
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 30%;
-    /* text-align: center; */
 }
 
 
@@ -472,11 +421,9 @@ td{
 
 
 .bmi-calc-info{
-    /* display: grid; */
-    /* grid-template-columns: repeat(2 , 1fr); */
     margin-top: 70px;
     max-width: fit-content;
-    /* gap: 15px; */
+
 }
 
 .bmi-new{
@@ -495,7 +442,7 @@ td{
     border: none;
     padding: 0px 50px;
     width: 100%;
-    /* width: 340px; */
+
     height: 60px;
 }
 
@@ -503,7 +450,6 @@ td{
 
 #Z{
     width: 100%;
-    /* width: 700px; */
     margin-top: 15px;
 }
 
@@ -679,17 +625,6 @@ td{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 .gran{
     background-color: #242424;
     padding-bottom: 100px;
@@ -699,8 +634,6 @@ td{
 .par{
     display: flex;
     justify-content: center;
-    /* background-color: #242424;
-    padding-bottom: 100px; */
 }
 
 
@@ -844,12 +777,10 @@ td{
 .pack3-li
 {
     color: #a8a8a8;
-    /* list-style: none; */
     font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 25px;
 }
-
 
 
 
@@ -875,12 +806,6 @@ td{
 
 
 
-.pack-all-btn-div{
-
-}
-
-
-
 .pack-all-btn{
     color: white;
     background-color: #E6533C;
@@ -892,12 +817,3 @@ td{
     margin-top: 50px;
     padding-bottom: 0px 23px 15px 23px;
 }
-
-
-/*.sec3-btn{
-    margin-top: 58px;
-    background-color: #E6533C;
-    border: none;
-    color: #FFFFFF;
-    border-radius: 50px;
-}*/

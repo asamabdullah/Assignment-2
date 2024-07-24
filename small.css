@@ -4,18 +4,15 @@
     
     }
 
-
     .head-nav{
         justify-content:space-between;
     }
-
 
     .head > .head-nav > h1{
         margin-left: 0;
     }
 
 
-    
     .icon{
         display: inline;
         margin-top: 85px;
@@ -42,10 +39,6 @@
     .head-des-p{
         margin-left: 15px;
     }
-
-
-
-
 
 
     .btn-hold{
@@ -97,8 +90,6 @@
         max-width:350px;
         padding-right: 35px;
     }
-
-
 
 
     .head-img-btn1{
@@ -202,20 +193,10 @@
 
 
 
-    /* .bmi-calc{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-    } */
-
     .bmi-calc-info{
         grid-template-columns: repeat(2 , 1fr);
         gap: 10px;
         margin-left: 5px;
-        /* display: flex;
-        flex-wrap: wrap;
-        margin-left: 10px;
-        gap: 10px; */
     }
 
 
@@ -230,7 +211,6 @@
 
     .A{
         width: 95%;
-        /* width: calc((100% - 5px)); */
         height: 60px;
 
     }
@@ -267,7 +247,6 @@
     }
 
 
-
     .bmi-table{
         width: 100%;
         
@@ -300,10 +279,6 @@
     }
 
 
-
-
-
-
     .buy-par-div{
         flex-direction: column;
         width: 90%;
@@ -318,12 +293,9 @@
     .pack1,
     .pack2,
     .pack3{
-        /* padding: 0; */
         border-radius: 5px;
         padding: 25px 0 25px 0;
         margin-top: 25px;
-        /* width: 90%;
-        margin-left: 5.5%; */
     }
 
 
@@ -344,20 +316,15 @@
         margin-left: 5%;
     }
 
-
     .pack-all-btn{
         margin-left: 5%;
     }
-
-
 
 
     .com{
         margin-top: 75%;
         font-size: 27px;
     }
-
-
 
     .tra3-h1{
         margin-left: 5% ;
@@ -374,8 +341,6 @@
     }
 
 
-
-
     .tra-p{
         position: absolute;
         color: #a8a8a8;
@@ -385,9 +350,4 @@
         font-size: 22px;
     }
 
-
 }
-
-
-
-/* 1877 */

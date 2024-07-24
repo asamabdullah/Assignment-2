@@ -14,6 +14,8 @@
 }
 
 
+
+
 @media screen and (min-width: 1520px) and (max-width: 1865px) {
     .head-img-btn1{
         right: 250px;
@@ -25,5 +27,3 @@
         margin-left: 2.5%;
     }
 }
-
-

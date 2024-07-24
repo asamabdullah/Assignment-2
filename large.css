@@ -1,6 +1,5 @@
     @media screen and (min-width: 992px) and (max-width: 1520px){
         
-
         .head-banner{
             justify-content: space-evenly;
         }
@@ -36,7 +35,6 @@
             height: 220px;
         }
 
-        
         
         
         .A{
@@ -100,8 +98,6 @@
 
 
 
-
-
     .com{
         margin-top: 14%;
         margin-left: 8%;
@@ -116,10 +112,6 @@
         font-size: 25px;
         margin-left: 4%;
     }
-
-
-
-
 }
 
 
